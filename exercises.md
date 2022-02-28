@@ -5,10 +5,15 @@
 - [x] Create a GitHub Account
 - [x] Do the GitHub 'Hello World'
 - [x] Add a Repository for the folio
+- [x] What types of writing do you do? (ie fiction, nonfiction, poetry, other)
 - [x] What tools (or techniques) do you use to write?
 - [x] How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 
 ### Questions
+
+#### What types of writing do you do? (ie fiction, nonfiction, poetry, other)
+
+I do nonfiction and poetry primarily - which stems (and coincides) with my passion for songwriting.
 
 #### What tools (or techniques) do you use to write?
 
