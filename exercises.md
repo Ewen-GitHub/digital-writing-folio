@@ -2,6 +2,6 @@
 
 ## Week 1
 
-- [ ] Create a GitHub Account
-- [ ] Do the GitHub
-- [ ] Add a Repository for the folio
+- [x] Create a GitHub Account
+- [x] Do the GitHub
+- [x] Add a Repository for the folio
