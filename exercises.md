@@ -39,7 +39,7 @@ I like to sit in a study, at a desk where distractions are limited and I am forc
 - [x] How is electronic literature different from print literature?
 - [x] What are some of the qualities of electronic literature?
 
-### Electronic Literature Collection
+#### Electronic Literature Collection
 
 I found works like bpNichol's [First Screening](https://collection.eliterature.org/3/work.html?work=first-screening), Jim Munroe's [Everybody Dies](https://collection.eliterature.org/2/works/munroe_everybodydies.html) and [Up Against the Screen Motherfuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html) by Justin Katko the most interesting and will focus on
 one of these works for my first assignment.
