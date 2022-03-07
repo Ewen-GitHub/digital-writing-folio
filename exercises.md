@@ -38,8 +38,11 @@ I like to sit in a study, at a desk where distractions are limited and I am forc
 - [x] Read and select 3 works from the E.L.C that you find interesting
 - [x] How is electronic literature different from print literature?
 - [x] What are some of the qualities of electronic literature?
+- [x] What aspects of the remix are the same?
+- [x] What aspects of the remix are different?
+- [x] Is the remix successful (why or why not)?
 
-#### Electronic Literature Collection
+### Electronic Literature Collection
 
 I found works like bpNichol's [First Screening](https://collection.eliterature.org/3/work.html?work=first-screening), Jim Munroe's [Everybody Dies](https://collection.eliterature.org/2/works/munroe_everybodydies.html) and [Up Against the Screen Motherfuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html) by Justin Katko the most interesting and will focus on
 one of these works for my first assignment.
@@ -52,3 +55,17 @@ through the whole process of finding a print copy. Electronic Literature (E.L) a
 #### What are some of the qualities of electronic literature?
  
  Because E.L is so limitless it is actually quite hard to define the individual qualities that it entails. In my opinion E.L has to be in some way digital, and has to involve some form of literature (which as we discovered last week - is also pretty impossible to define). I believe it has to have some kind of creative drive behind it - or needs to be a "creation" of the author, come to life.
+
+### [Along the Briny Beach](https://nickm.com/taroko_gorge/along_the_briny_beach/) - Taroko Gorge Remix
+
+#### What aspects of the remix are the same?
+
+Both of these poems have a basis around the constant, and structured flow of the lines. This is to purpose the shared theme of nature and place - particularly of the flowing water (in Taroko Gorge it specifically talks about "flow", in Along the Briny beach it is about the beach; the waves, the salt water).
+
+#### What aspects of the remix are different?
+
+Along the Briny Beach is essentially a more complicated version of Taroko Gorge - enveloping elements both vertically AND horizontally across the screen, also using imagery to represent the "flow" of the water - whereas in Taroko Gorge it is simply the words streaming down the page that you are drawn to.
+
+#### Is the remix successful (why or why not)?
+
+I think it is successful as the colours on the page are much more calming and inviting, and while there are more words coming from more places, it isn't overwhelming or hard to read. You can read each element at your on pace; I don't feel forced or rushed to read each section as quick as possible.
