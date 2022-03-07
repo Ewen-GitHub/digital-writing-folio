@@ -36,8 +36,19 @@ I like to sit in a study, at a desk where distractions are limited and I am forc
 ## Week 2
 
 - [x] Read and select 3 works from the E.L.C that you find interesting
+- [x] How is electronic literature different from print literature?
+- [x] What are some of the qualities of electronic literature?
 
 ### Electronic Literature Collection
 
 I found works like bpNichol's [First Screening](https://collection.eliterature.org/3/work.html?work=first-screening), Jim Munroe's [Everybody Dies](https://collection.eliterature.org/2/works/munroe_everybodydies.html) and [Up Against the Screen Motherfuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html) by Justin Katko the most interesting and will focus on
 one of these works for my first assignment.
+
+#### How is electronic literature different from print literature?
+
+Electronic literature is much more accessible than print literature - if you want to read something you can usually just look it up rather than going
+through the whole process of finding a print copy. Electronic Literature (E.L) also has endless forms. While print is very limited in the way in can be presented (maybe you can turn the page landscape to mix it up) E.L can be interactive, visual, moving, film, text, colour, easy, difficult.
+
+#### What are some of the qualities of electronic literature?
+ 
+ Because E.L is so limitless it is actually quite hard to define the individual qualities that it entails. In my opinion E.L has to be in some way digital, and has to involve some form of literature (which as we discovered last week - is also pretty impossible to define). I believe it has to have some kind of creative drive behind it - or needs to be a "creation" of the author, come to life.
