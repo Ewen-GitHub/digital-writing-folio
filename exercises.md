@@ -39,5 +39,5 @@ I like to sit in a study, at a desk where distractions are limited and I am forc
 
 ### Electronic Literature Collection
 
-I found the works First Screening by bpNichol, Everybody Dies by Jim Munroe and Up Against the Screen Motherfuckers by Justin Katko the most interesting and will focus on
+I found works like bpNichol's [First Screening](https://collection.eliterature.org/3/work.html?work=first-screening), Jim Munroe's [Everybody Dies](https://collection.eliterature.org/2/works/munroe_everybodydies.html) and [Up Against the Screen Motherfuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html) by Justin Katko the most interesting and will focus on
 one of these works for my first assignment.
