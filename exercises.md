@@ -69,3 +69,9 @@ Along the Briny Beach is essentially a more complicated version of Taroko Gorge 
 #### Is the remix successful (why or why not)?
 
 I think it is successful as the colours on the page are much more calming and inviting, and while there are more words coming from more places, it isn't overwhelming or hard to read. You can read each element at your on pace; I don't feel forced or rushed to read each section as quick as possible.
+
+## Week 4
+
+### We Walk to You Remix
+
+[Running in my Bed](https://exclusive-scandalous-spandex.glitch.me) 
