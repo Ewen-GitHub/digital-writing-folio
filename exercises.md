@@ -72,6 +72,8 @@ I think it is successful as the colours on the page are much more calming and in
 
 ## Week 4
 
+- [x] Create a Remix on Glitch
+
 ### We Walk to You Remix
 
 [Running in my Bed](https://exclusive-scandalous-spandex.glitch.me) 
