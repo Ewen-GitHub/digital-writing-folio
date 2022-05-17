@@ -77,3 +77,39 @@ I think it is successful as the colours on the page are much more calming and in
 ### We Walk to You Remix
 
 [Running in my Bed](https://exclusive-scandalous-spandex.glitch.me) 
+
+## Week 5
+
+- [x] Create a Simple Website
+- [x] Download GitHub Desktop
+- [x] Download Visual Studio Code
+- [x] Create a folder/directory for your class repositories
+- [x] Create a new repository <username>.github.io in GitHub Desktop
+
+  <img width="845" alt="image" src="https://user-images.githubusercontent.com/100544454/168718242-bc11ba22-0fef-4e20-85a7-600e6a390d88.png">
+
+
+### Writing Hypertext Fiction
+ 
+- [x] How is it different from fiction?
+- [x] How is it different from games?
+- [x] How do you plan fiction?
+- [x] How could you plan hypertext fiction?
+ 
+ #### How is it different from fiction?
+ 
+ #### How is it different from games?
+ 
+ #### How do you plan fiction?
+ 
+ #### How could you plan hypertext fiction?
+
+### Create and Publish a Twine Story
+
+- [x] Install GitHub Desktop
+- [x] Set Up a Local Repository
+- [x] Create a local folder/directory for all your projects on your computer
+- [x] Create a Twine Story
+
+<img width="942" alt="image" src="https://user-images.githubusercontent.com/100544454/168719087-4430de4f-797c-4a56-b6f4-57ef50b8a634.png">
+I may have got a bit carried away with this exercise...
