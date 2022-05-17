@@ -98,11 +98,19 @@ I think it is successful as the colours on the page are much more calming and in
  
  #### How is it different from fiction?
  
+ Hypertext fiction is much more interactive than fiction as it is online and able to be read and written in multiple ways.
+ 
  #### How is it different from games?
+ 
+ While some of the coding can be very similar to that of games, hyperfiction is generally content on being more of a story than a game. However, some of the time it can be as simple as the author of the piece claiming it to be hypertext - rather than a game (even if you're playing through it).
  
  #### How do you plan fiction?
  
+ I plan fiction writing by sprawling out a random array of ideas in a stream-of-conciousness type way - and try to expand on the ideas that I believe have potential and merit. Not too much planning generally happens in my fiction writing until well into the piece.
+ 
  #### How could you plan hypertext fiction?
+ 
+ Hypertext Fiction is unfortunately very different. Because a lot of what I write - after its released - is out of my hands, I have to plan it so whatever path the reader takes I have to be content with how it is read, and where they end up.
 
 ### Create and Publish a Twine Story
 
