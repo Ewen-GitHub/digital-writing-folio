@@ -127,9 +127,22 @@ I may have got a bit carried away with this exercise...
  - [x] change the story styles
  - [x] add a linked image
  - [x] create an inform 7 story
+ 
+ ### Story Stylesheet
 
  <img width="518" alt="image" src="https://user-images.githubusercontent.com/100544454/169262273-9f98b81d-29dc-48d1-a848-5e969beed31f.png">
 
+### Inform 7 story
+ 
  <img width="485" alt="image" src="https://user-images.githubusercontent.com/100544454/169262510-cb074e93-fdd9-4bf9-80f1-4262b4b7616a.png">
+ 
+ ## Week 9
+ 
+ - [x] add audio to a twine story
+ - [x] audio example with howler.js
+ 
+ I attempted to add audio to a twine story, followed all the steps and check the coding not twice but 3 times but when I ran the story no audio wanted to play unfortunately.
+ 
+ 
  
  
