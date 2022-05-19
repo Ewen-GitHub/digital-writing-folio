@@ -121,3 +121,15 @@ I think it is successful as the colours on the page are much more calming and in
 
 <img width="942" alt="image" src="https://user-images.githubusercontent.com/100544454/168719087-4430de4f-797c-4a56-b6f4-57ef50b8a634.png">
 I may have got a bit carried away with this exercise...
+
+## Week 6
+ 
+ - [x] change the story styles
+ - [x] add a linked image
+ - [x] create an inform 7 story
+
+ <img width="518" alt="image" src="https://user-images.githubusercontent.com/100544454/169262273-9f98b81d-29dc-48d1-a848-5e969beed31f.png">
+
+ <img width="485" alt="image" src="https://user-images.githubusercontent.com/100544454/169262510-cb074e93-fdd9-4bf9-80f1-4262b4b7616a.png">
+ 
+ 
