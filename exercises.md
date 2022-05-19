@@ -139,7 +139,7 @@ I may have got a bit carried away with this exercise...
  ## Week 9
  
  - [x] add audio to a twine story
- - [x] audio example with howler.js
+ - [ ] audio example with howler.js
  
  I attempted to add audio to a twine story, followed all the steps and check the coding not twice but 3 times but when I ran the story no audio wanted to play unfortunately.
  
