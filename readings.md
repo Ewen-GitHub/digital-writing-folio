@@ -28,9 +28,17 @@ Lori Emerson. Indistinguishable from Magic: Invisible Interfaces and Digital Lit
 
 ### No Sense of an Ending
 
+In this text, Espen J. Aarseth disects the aesthetic and textual dynamic of digital literature and its large array of genres; including hypertext fiction, computer games, computer-generated poetry and prose. Rather than labeling electronic writing as unique and new, Aarseth defines these literary forms as open, dynamic texts, with which the reader must perform specific actions to produce textual continuation.
+
+Aarseth EJ. No Sense of an Ending: Hypertext Aesthetics. In: Cybertext : Perspectives on Ergodic Literature. Johns Hopkins University Press; 1997:76-96. https://ap01-a.alma.exlibrisgroup.com/view/delivery/61RMIT_INST/12269642080001341
+
 ## Week 6
 
 ### Riddles
+
+
+
+Montfort N. Riddles. In: Twisty Little Passages : an Approach to Interactive Fiction. MIT Press; 2004:37-63. https://login.ezproxy.lib.rmit.edu.au/login?url=https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=5966542&ppg=54
 
 ## Week 7
 
