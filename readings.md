@@ -44,14 +44,30 @@ Montfort N. Riddles. In: Twisty Little Passages : an Approach to Interactive F
 
 ### The Paradox of Poetic Gaming
 
+
+
+Astrid Ensslin. The Paradox of Poetic Gaming: evidence of everything exploding. In: Literary Gaming. The MIT Press; 2014:123-.
+
 ## Week 9
 
 ### Excavating Logics of White Suppremacy in E.C
+
+
+
+Ikeda R. Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique. https://doi.org/10.7273/CCTW-4415
 
 ## Week 10
 
 ### Arriving Simultaneously 
 
+
+
+Molloy J. Arriving Simultaneously: Selections from a writer’s Notebook. https://doi.org/10.7273/km1w-yn90
+
 ## Week 11
 
 ### Publishing E.C
+
+
+
+O’Sullivan J. Publishing Electronic Literature. Published 2021. https://doi.org/10.5040/9781501363474.ch-022
