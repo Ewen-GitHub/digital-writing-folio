@@ -34,9 +34,9 @@ Aarseth EJ. No Sense of an Ending: Hypertext Aesthetics. In: Cybertext : Persp
 
 ## Week 6
 
-### Riddles
+### Twisty Little Packages
 
-
+Montfort discusses interactive fiction and gives readers of the genre a more pleasureable and enjoyable way to experience interactive fiction. He touches on popular interactive fiction like dungeons and dragons; and also talks about its predecessors in computable text fiction. Montfort talks about the influence that interactive fiction has on other games and literary forms.
 
 Montfort N. Riddles. In: Twisty Little Passages : an Approach to Interactive Fiction. MIT Press; 2004:37-63. https://login.ezproxy.lib.rmit.edu.au/login?url=https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=5966542&ppg=54
 
