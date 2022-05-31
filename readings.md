@@ -44,7 +44,7 @@ Montfort N. Riddles. In: Twisty Little Passages : an Approach to Interactive F
 
 ### The Paradox of Poetic Gaming
 
-
+This reading by Astrid Ensslin talks about digital media that are made to be referred to as 'games' - but whose content is quite poetic in nature. These 'poetic games' are - from my understanding, a type of computer game that has a strong poetic agenda. However, this poetic nature behind the game doesn't take away from "gameness" that is the base of what it is. 
 
 Astrid Ensslin. The Paradox of Poetic Gaming: evidence of everything exploding. In: Literary Gaming. The MIT Press; 2014:123-.
 
