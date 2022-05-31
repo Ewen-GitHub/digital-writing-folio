@@ -50,7 +50,7 @@ Astrid Ensslin. The Paradox of Poetic Gaming: evidence of everything exploding. 
 
 ## Week 9
 
-### Excavating Logics of White Suppremacy in E.C
+### Excavating Logics of White Supremacy in E.C
 
 
 
