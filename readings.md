@@ -52,7 +52,7 @@ Astrid Ensslin. The Paradox of Poetic Gaming: evidence of everything exploding. 
 
 ### Excavating Logics of White Supremacy in E.C
 
-
+In this essay, Ryan Ikeda challenges us to think more critically about the ways we can engage with antiracism critiques and practices - within the field of electronic literature. Ikeda argues that while it seems on the surface that many of the racial issues within elit have been addressed, there are still a lot of constructs and material structures that affirm, racialise and extend power, privilege and status to its readers. 
 
 Ikeda R. Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique. https://doi.org/10.7273/CCTW-4415
 
