@@ -157,5 +157,5 @@ I may have got a bit carried away with this exercise...
  - [x] Scale Images
  - [x] Experiment with CSS grid layout
  
- ![Screenshot 2022-06-01 155759](https://user-images.githubusercontent.com/100544454/171337950-14b6d0c7-ab45-4bff-9610-7e6fe4224740.jpg)
+  <img width="485" alt="image" src="https://user-images.githubusercontent.com/100544454/171337950-14b6d0c7-ab45-4bff-9610-7e6fe4224740.jpg">
 
