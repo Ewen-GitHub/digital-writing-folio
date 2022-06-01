@@ -149,4 +149,13 @@ I may have got a bit carried away with this exercise...
  [
  https://sleet-malleable-cheek.glitch.me/](https://polarized-important-litter.glitch.me/)
  
+ ## Week 10
  
+ ### Images in Twine
+ 
+ - [x] Add Background Image to Twine
+ - [x] Scale Images
+ - [x] Experiment with CSS grid layout
+ 
+ ![Screenshot 2022-06-01 155759](https://user-images.githubusercontent.com/100544454/171337950-14b6d0c7-ab45-4bff-9610-7e6fe4224740.jpg)
+
