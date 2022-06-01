@@ -60,7 +60,7 @@ Ikeda R. Excavating Logics of White Supremacy in Electronic Literature: Antiraci
 
 ### Arriving Simultaneously 
 
-
+This work by Judy Molloy describes kind of what we're doing here - a writers notebook. She tells of how helpful it can be to have a piece of research writing on the side of main project when working with code. As coding elit can get very confusing, having somewhere where you can sprawl notes onto and do blueprints etc, can be very helpful when completing a final piece of work. Molloy discusses how she decided to release her notes as it proved helpful to the reader to understand the meaning, the research, and the software engagement used when creating a piece of code. 
 
 Molloy J. Arriving Simultaneously: Selections from a writer’s Notebook. https://doi.org/10.7273/km1w-yn90
 
