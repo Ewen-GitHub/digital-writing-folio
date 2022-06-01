@@ -50,7 +50,7 @@ Astrid Ensslin. The Paradox of Poetic Gaming: evidence of everything exploding. 
 
 ## Week 9
 
-### Excavating Logics of White Supremacy in E.C
+### Excavating Logics of White Supremacy in Electronic Literature
 
 In this essay, Ryan Ikeda challenges us to think more critically about the ways we can engage with antiracism critiques and practices - within the field of electronic literature. Ikeda argues that while it seems on the surface that many of the racial issues within elit have been addressed, there are still a lot of constructs and material structures that affirm, racialise and extend power, privilege and status to its readers. 
 
@@ -66,8 +66,8 @@ Molloy J. Arriving Simultaneously: Selections from a writer’s Notebook. https:
 
 ## Week 11
 
-### Publishing E.C
+### Publishing Electronic Literature
 
-
+In this final reading by James O'Sullivan, the ways in which Electronic Literature can be published is discussed. O'Sullivan argues that electronic literature, in a sense publishes itself. How in the past publishers have acted as the "middlemen", distributing your writing to all the right people, but with elit those middlemen are no longer required - in a traditional sense. An electronic literature writer quite often acts as; artist, producer and distributor.  
 
 O’Sullivan J. Publishing Electronic Literature. Published 2021. https://doi.org/10.5040/9781501363474.ch-022
